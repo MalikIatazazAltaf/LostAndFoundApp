@@ -1,0 +1,2 @@
+C:/Users/PMLS/final_year_project/android/app/.cxx/Debug/3r341y6a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PMLS/final_year_project/android/app/.cxx/Debug/3r341y6a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
